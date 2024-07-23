@@ -1,5 +1,5 @@
 {
-  "name": "svg-react-loader",
+  "name": "@mozioinc/svg-react-loader",
   "version": "0.4.7-alpha.0",
   "description": "A Webpack Loader to turn SVGs into React Components",
   "main": "./lib/loader.js",
